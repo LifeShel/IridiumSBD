@@ -1,4 +1,5 @@
 /*
+test forked
 IridiumSBD - An Arduino library for Iridium SBD ("Short Burst Data") Communications
 Suggested and generously supported by Rock Seven Location Technology
 (http://rock7mobile.com), makers of the brilliant RockBLOCK satellite modem.
